@@ -8,6 +8,7 @@ Your goal is to finish this attendance tracker app by completing the TODOs in ea
 
 The video below will give you a quick sneak into how your app is expected to look like:
 
+<video src="./samples/sample.webm" width="180" height="250"></>
 
 
 ---
