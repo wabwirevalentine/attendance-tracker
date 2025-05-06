@@ -8,7 +8,7 @@ function Student({ name, id, present, onToggle }) {
   };
 
   return (
-    <div>
+    <div className="student-card">
       <span>{name}</span>
 
       <button onClick={handleClickListener}>
