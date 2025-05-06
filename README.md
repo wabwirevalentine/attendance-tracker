@@ -6,6 +6,10 @@ A simple React app to practice **state**, **callbacks**, and **event handling** 
 
 Your goal is to finish this attendance tracker app by completing the TODOs in each file.
 
+The video below will give you a quick sneak into how your app is expected to look like:
+
+
+
 ---
 
 ## 🛠️ TODO Checklist
